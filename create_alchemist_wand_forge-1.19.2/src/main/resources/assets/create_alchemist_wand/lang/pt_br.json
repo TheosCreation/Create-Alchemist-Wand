@@ -1,0 +1,9 @@
+{
+	"item.create_alchemist_wand.wand_alchemist": "Alchemist Wand",
+	"item.create_alchemist_wand.wand_alchemist.line1": "Transforms many Overworld blocks into resources from the Nether and End",
+	"item.create_alchemist_wand.wand_alchemist.line2": "Use with blocks or items in crafting table",
+	"item.create_alchemist_wand.wand_alchemist.jei.line1": "The Alchemist Wand is used to transform various Overworld blocks into blocks normally found in the Nether and the End.  Use in a crafting table with a block to transform the block based on the following list.",
+	"item.create_alchemist_wand.alchemy_dust": "Alchemy Dust",
+
+	"itemGroup.create_alchemist_wand": "Create Alchemist Wand"
+}

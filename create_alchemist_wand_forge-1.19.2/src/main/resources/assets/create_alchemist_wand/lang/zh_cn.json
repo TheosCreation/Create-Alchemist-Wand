@@ -1,0 +1,9 @@
+{
+	"item.create_alchemist_wand.wand_alchemist": "炼金魔杖",
+	"item.create_alchemist_wand.wand_alchemist.line1": "可将多个世界的方块转换成资源",
+	"item.create_alchemist_wand.wand_alchemist.line2": "在工作台中和方块或物品一起使用",
+	"item.create_alchemist_wand.wand_alchemist.jei.line1": "The Alchemist Wand is used to transform various Overworld blocks into blocks normally found in the Nether and the End.  Use in a crafting table with a block to transform the block based on the following list.",
+	"item.create_alchemist_wand.alchemy_dust": "Alchemy Dust",
+
+	"itemGroup.create_alchemist_wand": "創造煉金術士魔杖"
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "create_alchemist_wand:blend_gemium"
+  },
+  "result": "create_alchemist_wand:gem_gemium",
+  "experience": 0.35,
+  "cookingtime": 200
+}

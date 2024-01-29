@@ -1,0 +1,41 @@
+modLoader="javafml" #mandatory
+
+loaderVersion="[41,)" #mandatory (40 is current forge version)
+
+credits="Thanks all" #optional
+
+authors="theocreates" #optional
+license="MIT"
+
+[[mods]] #mandatory
+modId="create_alchemist_wand" #mandatory
+version="1.0.0" #mandatory
+displayName="Create Alchemist Wand" #mandatory
+description='''
+Create alchemists in the making welcome to Create Alchemist Wand
+'''
+
+
+[[dependencies.create_alchemist_wand]] #optional
+    modId="forge" #mandatory
+    mandatory=true #mandatory
+    versionRange="[41,)" #mandatory
+    ordering="NONE"
+    side="BOTH"
+
+
+# Here's another dependency
+[[dependencies.create_alchemist_wand]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19,1.20]"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.create_alchemist_wand]]
+    modId="create"
+    mandatory=true
+    versionRange="[0.5.1.e,)"
+    ordering="NONE"
+    side="BOTH"
+
